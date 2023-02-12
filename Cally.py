@@ -1,4 +1,3 @@
-loop = True
-while loop == True:
+while True:
     mainline = input("CALLY->")
     print((eval(mainline)))
